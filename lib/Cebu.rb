@@ -15,7 +15,7 @@ module Cebu
   end
 
   def self.get
-    @@Apolo
+    @@Apollo
   end
 
   module_function
