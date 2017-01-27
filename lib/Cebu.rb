@@ -1,5 +1,7 @@
 require "Cebu/version"
 
 module Cebu
-  # Your code goes here...
+  if Time.now.hour + 4
+    puts "I miss Cebu! Time to reminisce the old days back home."
+  end
 end
