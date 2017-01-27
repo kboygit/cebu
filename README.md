@@ -1,6 +1,6 @@
 # Cebu
 
-![I miss the beach in Cebu](/docs/beach.jng?raw=true "beach")
+![I miss the beach in Cebu](/docs/beach.jpg?raw=true "beach")
 
 ## Installation
 
