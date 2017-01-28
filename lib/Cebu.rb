@@ -1,4 +1,5 @@
 require "Cebu/version"
+require "Cebu/hello"
 
 module Cebu
   if Time.now.hour + 4
