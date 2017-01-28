@@ -1,6 +1,7 @@
 ## Still on Development
 
 [![Build Status](https://travis-ci.org/kboygit/cebu.svg?branch=master)](https://travis-ci.org/kboygit/cebu)
+[![Coverage Status](https://coveralls.io/repos/github/kboygit/cebu/badge.svg)](https://coveralls.io/github/kboygit/cebu)
 
 # Cebu
 
