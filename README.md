@@ -1,3 +1,7 @@
+## Still on Development
+
+[![Build Status](https://travis-ci.org/kboygit/cebu.svg?branch=master)](https://travis-ci.org/kboygit/cebu)
+
 # Cebu
 
 ![I miss the beach in Cebu](/docs/beach.jpg?raw=true "beach")
