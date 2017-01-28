@@ -12,6 +12,7 @@ Gem::Specification.new do |spec|
   spec.summary       = %q{A memory flashback for people who miss Cebu}
   spec.description   = %q{Used to bring back the good memories back home in Cebu,Philippines.Where people who migrated in the U.S and miss the vibe back home}
   spec.homepage      = ""
+  spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.
