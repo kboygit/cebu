@@ -10,13 +10,15 @@ module Cebu
   # through fliptop now Apollo Chapter = Rapollo for local hip-hop events produce talents Nationally
   @@Apollo = 'Apollo Chapter'
 
-  def self(x)
+  def self.set(x)
     @@Apollo = x
   end
 
   def self.get
-    @@Apolo
+    @@Apollo
   end
+
+
 
   module_function
   def param; @param end
@@ -30,7 +32,7 @@ Cebu.set('Cebu I will see you soon')
 p Cebu::get
 
 Cebu.param # -> nil
-Cebu.param = USC-TC
+Cebu.param = 'USC-TC'
 Cebu.param # -> USC-TC
 Cebu.set('Alma Mater')
 p Cebu::get
