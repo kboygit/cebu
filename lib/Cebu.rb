@@ -19,8 +19,6 @@ module Cebu
     @@Apollo
   end
 
-
-
   module_function
   def param; @param end
   def param= x; @param = x end

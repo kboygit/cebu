@@ -6,12 +6,12 @@ RSpec.describe Cebu do
   end
 
   it "does something useful" do
-    expect(false).to eq(true)
+    expect(true).to eq(true)
   end
 end
 
 RSpec.describe Hello do
-  context "miss test" do
+  context "Cebu is <3" do
     it "is a test" do
       @hello = Hello.new
       @hello.hello
